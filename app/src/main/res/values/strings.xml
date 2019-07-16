@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VeranoApp</string>
+    <string-array name="array_spinner">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otros</item>
+        <item>Animal</item>
+    </string-array>
+</resources>
